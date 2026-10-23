@@ -227,13 +227,13 @@
       }
     },
     "cyango": {
-      "sha": "e36aa575c29084379c340f68e1bf6ed17c99762b",
-      "version": "1.5.19",
+      "sha": "8498780d3fb9b3953d4f9ac175a7dfc8da25554a",
+      "version": "1.5.21",
       "components": {
         "mcpServers": [
           {
             "name": "cyango",
-            "description": "stdio"
+            "description": "http"
           }
         ],
         "skills": [
